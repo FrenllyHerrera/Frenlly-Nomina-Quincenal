@@ -16,5 +16,5 @@ Las horas que sobrepasan las 88 se pagan como extras con un 35% de recargo, y se
 Si el contrato es Fijo, se aplican deducciones de AFP (2.87%) y SFS (3.04%) sobre el salario regular y extra.
 Y por ulitmo secalcula el neto (que es bruto - deducciones) y se acumula para el resumen.
 
-## Captura del programa en ejecución
+## Captura 
 <img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/934b70bb-bc05-4a91-b817-4a359a7d7407" />
